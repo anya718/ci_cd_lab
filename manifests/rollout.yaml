@@ -24,7 +24,7 @@ spec:
     spec:
       containers:
         - name: webserver
-          image: ghcr.io/anya718/ci_cd_lab@latest
+          image: ghcr.io/anya718/ci_cd_lab@1111
           ports:
             - containerPort: 8080
           imagePullPolicy: Always
